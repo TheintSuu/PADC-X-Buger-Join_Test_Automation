@@ -23,4 +23,4 @@ fun<T> first(matcher : Matcher<T>) : Matcher<T> {
     }
 }
 
-const val FIRST_ITEM_DESCRIPTION = "Return the First Mactching Item"
+const val FIRST_ITEM_DESCRIPTION = "Return The First Mactching Item"
